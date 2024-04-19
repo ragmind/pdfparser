@@ -1,6 +1,6 @@
 # RAG PDF Parser
 
-This is a PDF parser specifically designed for RAG (Retrieve-Augment-Generate), aimed at accurately parsing PDF files and extracting tables, outlines, and block-level information based on outlines.
+This is a PDF parser specifically designed for **RAG (Retrieve-Augment-Generate)**, aimed at accurately parsing PDF files and extracting tables, outlines, and block-level information based on outlines.
 
 ## Features
 
